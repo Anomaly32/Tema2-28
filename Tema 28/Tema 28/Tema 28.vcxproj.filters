@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Haina.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pantaloni.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rochie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camasa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Palton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Geaca.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Costum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Masina.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spalare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spalare_speciala.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stoarcere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Uscare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Calcare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sacou.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Haina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pantaloni.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rochie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camasa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Palton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Geaca.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Costum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Masina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spalare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spalare_speciala.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stoarcere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Uscare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Calcare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Subclase_Haina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Subclase_Masina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sacou.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+
+Rochie - 0 2 3
+Pantaloni, Camasi - 0 2 3 4
+Paltoane, Geci  - 1 3
+Costum - 1 3 4
